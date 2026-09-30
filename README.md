@@ -27,6 +27,8 @@ I build for **low bandwidth, low-end devices, unstable power, and students who s
 
 My trajectory isn’t linear. I started with an academic AI idea, shipped it, watched distribution fail, learned to build infrastructure instead of features, and now I’m moving toward African-scale products in education, career, and health. The common thread is **constraint-driven design**: take the hardest real-world limitation and build around it, not despite it.
 
+I document this transition at **[nmesirionyejournal.ngbaronye.com](https://nmesirionyejournal.ngbaronye.com)** — not as a résumé, but as a public record of the thinking, failures, and decisions behind the work.
+
 ---
 
 ## What I’m Building
@@ -270,7 +272,8 @@ I’d like to connect.
 
 ## Connect
 
-- **Portfolio & Journal:** [nmesirionye.ngbaronye.com](https://nmesirionye.ngbaronye.com)
+- **Portfolio:** [nmesirionye.ngbaronye.com](https://nmesirionye.ngbaronye.com)
+- **Journal:** [nmesirionyejournal.ngbaronye.com](https://nmesirionyejournal.ngbaronye.com)
 - **LinkedIn:** [nmesirionyengbaronye](https://linkedin.com/in/nmesirionyengbaronye)
 - **X:** [@nmesirionye_n](https://x.com/nmesirionye_n)
 - **Email:** [nmesirionyengbaronye@gmail.com](mailto:nmesirionyengbaronye@gmail.com)
