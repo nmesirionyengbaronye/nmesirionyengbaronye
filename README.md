@@ -2,7 +2,9 @@
 
 # Nmesirionye Ngbaronye
 
-**Mechatronics Engineering Student · Software Engineer · Technical Founder**
+**Engineer · Founder · Researcher**
+
+Building African-scale infrastructure for education, career, and health.
 
 Federal University of Technology Owerri (FUTO) · Owerri, Nigeria
 
@@ -27,7 +29,7 @@ My trajectory isn’t linear. I started with an academic AI idea, shipped it, wa
 
 ---
 
-## What I’ve Actually Built
+## What I’m Building
 
 ### UniUI
 **Live:** [app.uniui.com.ng](https://app.uniui.com.ng) · **Waitlist:** [waitlist.uniui.com.ng](https://waitlist.uniui.com.ng)
@@ -85,6 +87,8 @@ Same offline-first DNA. Same respect for low-resource environments. Different pr
 This is the third thread in a pattern I’m developing: take a domain, apply the browser-based AI architecture, remove the server dependency, and make it work where nothing else does.
 
 ---
+
+## Selected Projects
 
 ### AI Resume Analyzer
 **Repository:** [github.com/Panther0508/Ai-resume-analyzer](https://github.com/Panther0508/Ai-resume-analyzer)
