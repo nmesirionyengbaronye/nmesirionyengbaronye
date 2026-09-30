@@ -2,197 +2,129 @@
 
 # Nmesirionye Ngbaronye
 
-**Mechatronics Engineering Student** · **Full-Stack Developer** · **AI/ML Enthusiast**
+**Mechatronics Engineering Student · Software Engineer · Technical Founder**
 
 Federal University of Technology Owerri (FUTO) · Owerri, Nigeria
 
 [![Email](https://img.shields.io/badge/Email-nmesirionyengbaronye%40gmail.com-18181b?style=flat&logo=gmail&logoColor=ea580c)](mailto:nmesirionyengbaronye@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nmesirionye-18181b?style=flat&logo=linkedin&logoColor=0ea5e9)](https://linkedin.com/in/nmesirionye)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nmesirionyengbaronye.vercel.app-18181b?style=flat&logo=globe&logoColor=22c55e)](https://nmesirionyengbaronye.vercel.app)
-[![Twitter](https://img.shields.io/badge/Twitter-@pantherlord0508-18181b?style=flat&logo=twitter&logoColor=0ea5e9)](https://twitter.com/pantherlord0508)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nmesirionyengbaronye-18181b?style=flat&logo=linkedin&logoColor=0ea5e9)](https://linkedin.com/in/nmesirionyengbaronye)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nmesirionye.ngbaronye.com-18181b?style=flat&logo=globe&logoColor=22c55e)](https://nmesirionye.ngbaronye.com)
+[![X](https://img.shields.io/badge/X-@nmesirionye_n-18181b?style=flat&logo=x&logoColor=0ea5e9)](https://x.com/nmesirionye_n)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## Who I Am
 
-I am a Mechatronics Engineering student at FUTO with 2+ years of experience building **offline-first, locally-run applications** that solve real problems in low-connectivity environments. My work centers on creating technology that works for everyone—not just those with high-speed internet and expensive devices.
+I am a Mechatronics Engineering student at FUTO building **systems that outlast their circumstances**.
 
-I am building **Pantero** after experiencing the internet instability common across African universities, and **VitaChain** as its healthcare-focused counterpart. Both run AI models directly in the browser, eliminating server costs and ensuring accessibility on low-end devices.
+Most people in my environment graduate looking for a job. I started building before I knew how to finish a single course properly. Not because I don’t take engineering seriously—because I believe the proof of engineering is in what survives real constraints, not what works on a fast connection in a lab.
 
-My interdisciplinary engineering background allows me to approach software with **system-level thinking**—designing scalable, efficient solutions that respect user constraints and deliver genuine impact.
+I build for **low bandwidth, low-end devices, unstable power, and students who study without reliable internet**. That isn’t a slogan. It’s the actual environment I’m designing for, because it’s the environment I live in.
 
----
+I’m currently building:
 
-## 🚀 Featured Projects
+- **UniUI** — an academic intelligence system that knows when it might be wrong. Not another chatbot for students. A retrieval and reasoning layer built around sources, verification, confidence, and explanation. The product of learning what happens when students depend on AI that sounds confident but is wrong. Live at [app.uniui.com.ng](https://app.uniui.com.ng), waitlist at [waitlist.uniui.com.ng](https://waitlist.uniui.com.ng).
+- **Pantero** — offline-first AI mentorship and career infrastructure for African students. Runs AI models directly in the browser. No servers. No subscriptions. Built for low-end smartphones and networks that drop every few hours. Waitlist spans Nigeria, Kenya, Ghana, and South Africa.
+- **VitaChain** — healthcare counterpart to the same local-first architecture. Patient records, appointment scheduling, and AI-assisted diagnostics that work without consistent connectivity. *Not active yet.*
+- **ngbaronye.com** — my personal site and journal. Not a résumé. A public record of the transition from student to engineer-founder, and the thinking behind it.
 
-### 1. **Pantero** — AI-Powered Offline Mentorship Platform
-
-> AI mentor platform delivering skill guidance to African youth. Built local-first with offline-capable models to address unreliable internet access.
-
-**Live:** [pantero.vercel.app](https://pantero.vercel.app) · **Status:** Testing · **Waitlist:** 190+ across Africa
-
-**Tech Stack:** `React` `Next.js` `TypeScript` `Tailwind CSS` `WebLLM` `Vercel`
-
-**Highlights:**
-- ✅ Fully offline AI mentor after initial load
-- ✅ Browser-based LLMs for privacy and low-end device support
-- ✅ Community & marketplace for African students
-- ✅ Built by a student solving a problem they lived daily
-- ✅ Waitlist spanning Nigeria, Kenya, Ghana, South Africa
+I also write about the journey at **[nmesirionye.ngbaronye.com](https://nmesirionye.ngbaronye.com)**.
 
 ---
 
-### 2. **VitaChain** — Offline-First Healthcare Management System
+## What I’ve Actually Built
 
-> Medical-focused platform mirroring Pantero's local-first architecture. Enables clinics and communities to manage patient care with offline-first, AI-assisted workflows.
+**UniUI** started because I watched students use AI that looked smart and was confidently wrong. I didn’t want another wrapper around an LLM. I wanted something that could say *I don’t know* and mean it. That single requirement changed every technical decision: retrieval before generation, sources before answers, confidence scoring before display. The architecture is harder, the product is less flashy, and that’s the point.
 
-**Live Demo:** [care-connect-lilac-nine.vercel.app](https://care-connect-lilac-nine.vercel.app)
+**Pantero** started from a simpler observation: African students don’t have reliable internet, so cloud-dependent AI tools are already failing before they launch. I moved the model to the browser. The waitlist grew organically across four countries without paid ads. That wasn’t marketing. That was a real problem meeting a real constraint.
 
-**Tech Stack:** `React` `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+**VitaChain** is the same architecture applied to healthcare. Same offline-first DNA. Same respect for low-resource environments. Different problem, same principle.
 
-**Highlights:**
-- ✅ Offline-first patient record management
-- ✅ Appointment scheduling with local sync
-- ✅ AI-assisted diagnostics (on-device)
-- ✅ Designed for low-connectivity healthcare settings
-- ✅ HIPAA-inspired data privacy patterns
+**AI Resume Analyzer** — an NLP pipeline that parses PDFs and DOCX files, extracts skills, scores candidates, and matches them to jobs. Built with Python, spaCy, and Hugging Face. 85%+ parsing accuracy. Not because accuracy is the goal, but because bad parsing breaks trust in recruitment tools.
 
----
+**Developer News Dashboard (DevPulse)** — full-stack aggregation from Hacker News, Dev.to, and other sources. Built because I wanted a single pane for developer trends without ten browser tabs.
 
-### 3. **Portfolio** — Personal Developer Portfolio
+**Market Trend AI** — crypto analytics with sentiment analysis. Built to understand how market narratives form and move.
 
-> Professional portfolio showcasing projects, skills, and engineering achievements.
-
-**Live:** [nmesirionyengbaronye.vercel.app](https://nmesirionyengbaronye.vercel.app)
-
-**Tech Stack:** `React` `Next.js` `Tailwind CSS` `Vercel`
-
-**Highlights:**
-- Modern, performant portfolio design
-- Project showcase with live demos
-- Professional branding and storytelling
+These aren’t toys. They’re evidence of a pattern: find a real constraint, move the work closer to the user, remove the dependency that most solutions take for granted.
 
 ---
 
-### 4. **AI Resume Analyzer** — Production Recruitment Tool
+## How I Think About Engineering
 
-> NLP-powered resume analysis system operating offline with 85%+ parsing accuracy.
+I’m trained as a Mechatronics engineer. That means I think in systems: inputs, actuators, feedback loops, failure modes. Software is just another system with different failure modes.
 
-**Tech Stack:** `Python` `Flask` `SQLAlchemy` `spaCy` `Hugging Face`
+**Constraint-driven design** is my default. If you design for ideal conditions, you haven’t designed anything. The best architectures are the ones that degrade gracefully under pressure: low bandwidth, low-end hardware, missing dependencies, user error.
 
-**Highlights:**
-- PDF/DOCX resume parsing with NLP
-- Intelligent skill extraction and candidate scoring
-- Interactive analytics dashboard
-- Real-time candidate-job matching
+**Local-first** isn’t a preference. It’s a necessity in emerging markets. Cloud dependency is a luxury most of my users can’t afford. I design so the product works before it connects, and improves after it connects.
 
-[View Repository →](https://github.com/Panther0508/Ai-resume-analyzer)
+**Execution over explanation.** I’ve written enough roadmaps to know that plans don’t build things. Code, shipped to real users, with real feedback, over time—that’s the only evidence that matters.
+
+**Ambition without focus is just noise.** I’m interested in a lot of things: AI/ML, backend engineering, cybersecurity, Rust, systems programming, German, international opportunities, institutional networks. The skill I’m still learning is choosing what *not* to do, so what I do ship is durable.
 
 ---
 
-### 5. **Developer News Dashboard (DevPulse)** — Aggregation Platform
+## Technical Skills
 
-> Full-stack platform aggregating developer news from Hacker News, Dev.to, and other sources.
-
-**Tech Stack:** `React` `FastAPI` `TypeScript` `Tailwind CSS`
-
-**Highlights:**
-- Multi-source news aggregation
-- Smart search and filtering
-- Tech trends visualization
-- AI-powered news companion
-
-[View Repository →](https://github.com/Panther0508/Developer-News-Dashboard)
-
----
-
-### 6. **Market Trend AI** — Crypto Analytics Platform
-
-> Real-time cryptocurrency analytics with AI-driven sentiment analysis and market insights.
-
-**Tech Stack:** `TypeScript` `Python` `FastAPI` `React`
-
-**Highlights:**
-- Live crypto data aggregation
-- Sentiment analysis on market news
-- Interactive analytics dashboard
-- Intelligent trading insights
-
-[View Repository →](https://github.com/Panther0508/Market-Trend-AI)
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:** Python, JavaScript, TypeScript, HTML5/CSS3, SQL
+**Languages:** Python, TypeScript, JavaScript, C++, SQL
 
 **Frontend:** React, Next.js, Tailwind CSS, REST APIs
 
 **Backend:** FastAPI, Flask, Node.js, Express
 
-**Databases:** MongoDB, SQLite, SQLAlchemy
+**AI/ML:** spaCy, Hugging Face, NLP, on-device inference, prompt engineering
 
-**AI/ML:** spaCy, Hugging Face, NLP, Streamlit
+**Databases:** MongoDB, SQLite, PostgreSQL, SQLAlchemy
 
-**DevOps & Tools:** Git, Docker, RESTful APIs, Vercel
+**DevOps & Tools:** Git, Docker, Vercel, CI/CD
 
-**Architecture:** Microservices, API Design, System Integration
+**Architecture:** Offline-first design, browser-based AI, microservices, API design
 
----
-
-## 🌍 Impact & Recognition
-
-**Pantero** has organically grown to a **190+ waitlist** spanning Nigeria, Kenya, Ghana, and South Africa—all while being built by a single student developer. The platform addresses a critical gap: **81% of African students lack consistent internet access** for learning tools.
-
-**Key Impact Metrics:**
-- 🌐 **Waitlist:** 190+ users across 4+ African countries (organic growth)
-- 💡 **Problem Solved:** AI mentorship available offline, no servers, no subscriptions
-- 🔒 **Privacy:** All data stays on user devices—no external servers
-- 📱 **Accessibility:** Runs on low-end smartphones and slow networks
-- 🎯 **Validation:** Built from lived experience, not assumed needs
+**Other Interests:** Cybersecurity, Rust, systems programming, DAAD/Germany pathways, institutional technology policy
 
 ---
 
-## 🎓 Engineering Philosophy
+## Where I’m Headed
 
-As a Mechatronics Engineering student, I apply **precision engineering principles** to software development. My work is guided by:
+I’m not trying to get a job. I’m trying to become the kind of engineer who can build systems that matter at African scale.
 
-**🔬 System Thinking** — Designing interconnected architectures where components work in harmony, whether it's mechanical systems or distributed applications.
+The next phase is about **consolidation**:
 
-**⚙️ Constraint-Driven Design** — Building for real-world limitations (low bandwidth, low-end devices, unstable power) creates elegant, inclusive solutions.
+- Ship durable versions of UniUI and Pantero with real retention
+- Strengthen core engineering depth before expanding again
+- Build international connections and scholarship pathways
+- Maintain a public body of work that compounds independently of any single product
+- Transition from “student with side projects” to “engineer with shipped systems”
 
-**🌍 Local-First Mindset** — Prioritizing user control, privacy, and offline capability over cloud dependency—a necessity in emerging markets.
+Longer term, I want to build companies that outlast me, products that outlast their infrastructure, and a network that outlasts my individual projects.
 
-**🧩 Problem-First Development** — Starting from lived experience and validated needs, not hypothetical use cases.
+---
 
-**📐 Engineering Discipline** — Applying the same rigor to code that mechatronics demands of physical systems: precision, reliability, and maintainability.
+## Engineering Philosophy
+
+As a Mechatronics Engineering student, I apply **precision and constraint-aware thinking** to software. The principles are the same whether you’re designing a mechanical system or a distributed application:
+
+- **System Thinking** — Components matter less than how they interact under real conditions.
+- **Constraint-Driven Design** — Limitations aren’t obstacles. They’re the specification.
+- **Local-First Mindset** — User control, privacy, and offline capability aren’t features. They’re defaults.
+- **Problem-First Development** — Start from lived experience and validated needs, not hypothetical use cases.
+- **Engineering Discipline** — Precision, reliability, and maintainability aren’t optional. They’re what separates a project from a system.
 
 ---
 
-## 📬 Get In Touch
+## Connect
 
-I am actively seeking **scholarship opportunities**, **internships**, and **collaborative projects** where I can contribute my full-stack development skills and engineering mindset.
+I’m actively seeking **scholarship opportunities**, **internships**, **full-time roles**, and **serious collaborations** where I can contribute systems thinking, full-stack engineering, and AI/ML expertise.
 
-**Let's connect if you:**
-- 🔬 Are offering scholarships or research funding
-- 🏢 Have internship or junior developer opportunities
-- 💡 Want to collaborate on innovative projects
-- 📚 Support student developers in Africa
-
----
+- **Portfolio:** [nmesirionye.ngbaronye.com](https://nmesirionye.ngbaronye.com)
+- **LinkedIn:** [nmesirionyengbaronye](https://linkedin.com/in/nmesirionyengbaronye)
+- **X:** [@nmesirionye_n](https://x.com/nmesirionye_n)
+- **Email:** [nmesirionyengbaronye@gmail.com](mailto:nmesirionyengbaronye@gmail.com)
 
 <div align="center">
 
-**Open to:** Full-Time Roles · Internships · Scholarships · Collaborations
-
----
-
-<div align="center">
-
-*"Bridging engineering precision with elegant software design."*
-
-</div>
+*Building for the next seven years, not the next seven days.*
 
 </div>
